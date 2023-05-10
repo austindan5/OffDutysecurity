@@ -2,9 +2,9 @@ Shield Off Duty Security Client Webstie
 
 This website is a project for a client. It allows citizens in the metro-Atlanta area to find an off duty police officer for their buisness needs. 
 
-Link to project: https://shieldoffdutysecurity.netlify.app/
+Link to project: www.securityoptionsllc.com 
 
-<img width="939" alt="Shield Services" src="https://user-images.githubusercontent.com/121597363/232996790-339c7def-e834-4b6d-8131-3706cdc7bf2d.png">
+<img width="939" alt="Security Options" src="https://user-images.githubusercontent.com/121597363/232996790-339c7def-e834-4b6d-8131-3706cdc7bf2d.png">
 
 
 How It's Made:
